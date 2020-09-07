@@ -6,4 +6,5 @@ Gemini VII | Траектория (в том числе и пуска) Gemini VI
 Самарские ступени "семерки" | Обильно, познавательно, *вкусно* и может быть полезно | [Самарские ступени](lib/samarskie_stupeni.pdf "А оно тебе надо?")
 
 По Союзу можно просто видео посмотреть
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iUfyTPaD5gw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Чего тебе](https://img.youtube.com/vi/iUfyTPaD5gw/0.jpg)](https://www.youtube.com/watch?v=iUfyTPaD5gw)
