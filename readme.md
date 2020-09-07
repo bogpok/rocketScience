@@ -8,4 +8,4 @@ Gemini VII | Траектория (в том числе и пуска) Gemini VI
 По Союзу можно просто видео посмотреть
 
 
-[![Чего тебе](https://img.youtube.com/vi/iUfyTPaD5gw/0.jpg)](https://www.youtube.com/watch?v=iUfyTPaD5gw)
+[![Чего тебе](https://img.youtube.com/vi/iUfyTPaD5gw/0.jpg)](https://www.youtube.com/watch?v=iUfyTPaD5gw "Колбаса в космосе")
